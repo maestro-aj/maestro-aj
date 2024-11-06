@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @maestro-aj
+- 👀 I’m interested in software architecture, especially in domains like asset and wealth management, fintech, and scalable enterprise solutions.
+- 🌱 I’m currently learning C++ on Visual Studio Code, as well as .NET Core, C#, and advancing my knowledge in Event-Driven Architecture (EDA), Domain-Driven Design (DDD), and Microservices, with a focus on Azure Cloud solutions.
+- 💞️ I’m looking to collaborate on projects involving vertical slice architecture, microservices, cloud-native applications, CQRS (Command Query Responsibility Segregation), and distributed systems.
+- 📫 How to reach me: https://www.linkedin.com/in/yadavaj/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring how software architecture patterns improve scalability, maintainability, and resilience in real-world applications.
